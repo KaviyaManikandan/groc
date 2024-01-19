@@ -1,1 +1,1 @@
-# groc
+# grocery management
